@@ -1,0 +1,37 @@
+body{
+  background: black;
+}
+.ui.borderless.topbar.menu{
+  background:#323232;
+  border:none;
+  box-shadow: none;
+}
+
+.ui.borderless.searchbar.container.menu{
+  background: black;
+
+}
+
+.ui.centered.grid.container{
+  padding-top:45px;
+}
+
+.ui.sign.in.text{
+  padding-top:45px;
+}
+
+.ui.right.item{
+  color:white;
+}
+
+.ui.borderless.category.menu{
+  background:black;
+  font-size: medium;
+  padding-bottom: 20px;
+}
+
+ul{
+  list-style-type: none;
+  padding: 1em;
+  line-height: 30px;
+}
